@@ -1,2 +1,2 @@
-print("Helloooo")
-print("asdjhgqwgy8idas")
+print("1")
+print("2")
