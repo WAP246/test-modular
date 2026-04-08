@@ -6,5 +6,11 @@
       "description": "Prints a hello message for debugging fetching.",
       "version": "1.0.0"
     }
+    {
+      "name": "Test 2 Module",
+      "file": "test_2module.so",
+      "description": "Prints a hello message for 2 debugging fetching.",
+      "version": "1.2.0"
+    }
   ]
 }
