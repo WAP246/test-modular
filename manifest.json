@@ -1,0 +1,10 @@
+{
+  "modules": [
+    {
+      "name": "Test Module",
+      "file": "test_module.so",
+      "description": "Prints a hello message for debugging fetching.",
+      "version": "1.0.0"
+    }
+  ]
+}
